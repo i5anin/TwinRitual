@@ -1,5 +1,7 @@
 # TwinRitual
 
+**ЦКП:** Интернет-магазин мерча Twin Ritual с клиентом, сервером и базой PostgreSQL; сохранённая копия проекта.
+
 ### Live Link: https://mysterious-brushlands-75378.herokuapp.com/
 
 ## About Twin Ritual Project:
